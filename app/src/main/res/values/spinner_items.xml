@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="states">
+        <item>Estado</item>
+        <item>Goiás</item>
+        <item>Minas Gerais</item>
+        <item>Rio de Janeiro</item>
+        <item>São Paulo</item>
+
+    </string-array>
+</resources>

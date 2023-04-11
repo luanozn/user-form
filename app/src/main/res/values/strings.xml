@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cadastro Cliente</string>
+    <string name="profile_picture">Imagem de Perfil</string>
+    <string name="address">Endereço</string>
+    <string name="street">Rua</string>
+    <string name="number">N°</string>
+    <string name="CEP">CEP</string>
+    <string name="complement">Complemento</string>
+    <string name="city">Cidade</string>
+    <string name="state">Estado</string>
+    <string name="personal_data">Dados Pessoais</string>
+    <string name="name">Nome completo</string>
+    <string name="ddd">DDD</string>
+    <string name="phone">Telefone</string>
+    <string name="access_data">Dados de Acesso</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="terms">Concordo com os termos</string>
+    <string name="register">Cadastrar</string>
+    <string name="user_data">Dados do Usuário</string>
+</resources>
